@@ -1,0 +1,22 @@
+.navbar-nav li{
+    padding: 12px 8px;
+    text-decoration: none;
+    color: #111111;
+}
+.fixed-top{
+    background: #F8FAFC;
+}
+.navbar-nav li a{
+    color: #111111;
+    font-weight: 600;
+}
+.username{
+    color: #FF7044;
+    font-weight: 600; 
+}
+.btn-main{
+    padding: 10px 20px !important;
+}
+a:hover{
+    text-decoration: none
+}

@@ -1,0 +1,19 @@
+.event-wrapper{
+    padding-top: 120px;
+}
+.single-event{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    padding: 25px;
+    margin-bottom: 30px;
+}
+/* .single-event img{
+    max-width: 200px;
+    max-height: 200px;
+} */
+.cancel{
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+}

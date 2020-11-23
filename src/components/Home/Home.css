@@ -1,0 +1,28 @@
+.home-wrapper{
+    background: url(../../images/header-bg.png) no-repeat scroll center center;
+    background-size: cover;
+    width: 100%;
+    height: 90vh;
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+.upper{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.search-box{
+    position: relative;
+}
+.search-btn {
+    position: absolute;
+    top: 0;
+    right: 0px;
+    height: 100%;
+    padding: 0px 35px;
+}
+.home-wrapper .form-control {
+    border: 1px solid #D6D6D6;
+    padding: 25px 10px;
+    padding-left: 20px;
+}

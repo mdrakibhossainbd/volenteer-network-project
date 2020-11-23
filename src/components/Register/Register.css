@@ -1,0 +1,24 @@
+.register-form{
+    background: #FFFFFF;
+    border: 1px solid #ABABAB;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 35px 55px;
+    text-align: left;
+}
+.register-form h4{
+    margin-bottom: 30px;
+}
+.register-form .form-control{
+    padding: 25px 15px;
+    margin-top: 20px;
+}
+.register-form span{
+    color: red;
+}
+.register-btn{
+    width: 100%;
+    font-weight: 700;
+    padding: 16px 0px;
+    margin-top: 30px;
+}
